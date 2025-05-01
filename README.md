@@ -6,6 +6,10 @@
 This project implements **Mano's Basic Computer**—a simplified computer architecture model—using **Verilog HDL** for digital design and **Proteus** for simulation. The implementation now includes the **complete instruction set** as defined in Mano's original design.
 
 ---
+## **📺 Video Tutorials**
+For complete implementation guide:
+🔗 **[Video Tutorial Folder](https://drive.google.com/drive/folders/1DwrZD-YKt53nzJliP8311K1IsuqSqTSY)**
+---
 
 ## **Complete Instruction Set**
 The Mano Basic Computer supports the following instructions:
