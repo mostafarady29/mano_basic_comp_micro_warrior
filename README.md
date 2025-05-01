@@ -1,0 +1,1 @@
+# mano_basic_comp_micro_warrior
