@@ -8,7 +8,7 @@ This project implements **Mano's Basic Computer**—a simplified computer archit
 ---
 ## **📺 Video Tutorials**
 For complete implementation guide:
-🔗 **[Video Tutorial Folder](https://drive.google.com/drive/folders/1DwrZD-YKt53nzJliP8311K1IsuqSqTSY)**
+🔗 **[Video Tutorial Folder](https://www.dropbox.com/scl/fo/y0yje8gr4ju5na0a4r7lt/ABbAYR3ahSqLl-JNUfavjxQ?rlkey=40vbkwsku2owwr386u28xhwqk&st=tdcov0op&dl=0)**
 ---
 
 ## **Complete Instruction Set**
